@@ -1,5 +1,5 @@
 {
-  "name": "password-generator",
+  "name": "@ervinpm/passjs-gen",
   "version": "1.0.0",
   "description": "Generate random password with variable length, alpha and symbols.",
   "main": "main.js",
