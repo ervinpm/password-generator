@@ -1,0 +1,23 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "Generate random password with variable length, alpha and symbols.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ervinpm/password-generator.git"
+  },
+  "keywords": [
+    "password",
+    "generator"
+  ],
+  "author": "Ervin Marasigan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ervinpm/password-generator/issues"
+  },
+  "homepage": "https://github.com/ervinpm/password-generator#readme"
+}
